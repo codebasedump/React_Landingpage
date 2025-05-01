@@ -1,0 +1,202 @@
+{
+  "Home": {
+    "title": "Better Solutions For Your Business",
+    "paragraph": "Designing and developing new fabrics from various materials, both natural and synthetic.",
+    "bannerImg":[
+      {
+        "title": "Project Title",
+        "bannerImage1": "img/banner_image.png"
+      }
+    ]
+  },
+  "About": [
+    {
+      "title": "Lorem ipsum dolor sit amet.",
+      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet.",
+      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet.",
+      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet.",
+      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+  ],
+  "Services": {
+    "title": "We are here to give the more details about the services",
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum.",
+    "bannerImage1": "img/businesspost3.jpg",
+    "thumnails":[
+          {
+            "icon": "bi bi-laptop",
+            "name": "Lorem ipsum dolor",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+          },
+          {
+            "icon": "bi bi-bar-chart",
+            "name": "Consectetur adipiscing",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+          },
+          {
+            "icon": "bi bi-globe2",
+            "name": "Lorem ipsum dolor",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+          },
+          {
+            "icon": "bi bi-bookmarks",
+            "name": "Consectetur adipiscing",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+          }
+      ]
+  },
+  "Portfolio": [
+    {
+      "title": "Project Title",
+      "img": "img/ecommerce.jpg",
+      "paragraph": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+    },
+    {
+      "title": "Project Title",
+      "img": "img/03.jpg",
+      "paragraph": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+    },
+    {
+      "title": "Project Title",
+      "img": "img/enterprices.jpg",
+      "paragraph": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+    },
+    {
+      "title": "Project Title",
+      "img": "img/01.jpg",
+      "paragraph": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+    }
+  ],
+  "Testimonials": {
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.", 
+    "thumnails":[
+        {
+          "img": "img/blog-post-1.webp",
+          "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+          "name": "John Doe"
+        },
+        {
+          "img": "img/blog-post-2.webp",
+          "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+          "name": "Johnathan Doe"
+        },
+        {
+          "img": "img/blog-post-3.webp",
+          "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+          "name": "John Doe"
+        },
+        {
+          "img": "img/enterprices.jpg",
+          "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+          "name": "Johnathan Doe"
+        },
+        {
+          "img": "img/ecommerce.jpg",
+          "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+          "name": "John Doe"
+        },
+        {
+          "img": "img/planning.avif",
+          "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+          "name": "Johnathan Doe"
+        }
+    ]
+  },
+  "Team": {
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.", 
+    "thumnails":[
+      {
+        "img": "img/person-f-4.webp",
+        "name": "John Doe",
+        "job": "Director",
+        "text": "Aut maiores voluptates amet et quis praesentium qui senda para"
+      },
+      {
+        "img": "img/person-f-8.webp",
+        "name": "Mike Doe",
+        "job": "Senior Designer",
+        "text": "Dolorum tempora officiis odit laborum officiis et et accusamus"
+      },
+      {
+        "img": "img/person-m-6.webp",
+        "name": "Jane Doe",
+        "job": "Senior Designer",
+        "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi."
+      },
+      {
+        "img": "img/person-m-7.webp",
+        "name": "Karen Doe",
+        "job": "Project Manager",
+        "text": "Quisquam facilis cum velit laborum corrupti fuga rerum quia"
+      },
+      {
+        "img": "img/person-f-4.webp",
+        "name": "Mike Doe",
+        "job": "Senior Designer",
+        "text": "Aut maiores voluptates amet et quis praesentium qui senda para"
+      },
+      {
+        "img": "img/person-f-8.webp",
+        "name": "Jane Doe",
+        "job": "Senior Designer",
+        "text": "Quisquam facilis cum velit laborum corrupti fuga rerum quia"
+      },
+      {
+        "img": "img/person-m-7.webp",
+        "name": "Karen Doe",
+        "job": "Project Manager",
+        "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi."
+      },
+      {
+        "img": "img/person-m-6.webp",
+        "name": "Karen Doe",
+        "job": "Project Manager",
+        "text": "Quisquam facilis cum velit laborum corrupti fuga rerum quia"
+      }
+  ]
+},
+  "Contact": {
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.", 
+    "address": "4321 NewYork St, CA 123456",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ],
+  "Footer": 
+    {
+        "footertitle": "© Copyright 2025 Hoffstee All Rights Reserved"
+    }
+}
