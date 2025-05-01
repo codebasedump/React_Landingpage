@@ -19,3 +19,5 @@ Please ensure you have the **latest version of Node.js** installed before runnin
    git add README.md
    git commit -m "Add README file with Node.js installation instructions"
    git push
+3. Have a look at the below url, you can get the result like this URL.
+   Hosted into Netlify : https://reactlandingresponsive.netlify.app/ 
